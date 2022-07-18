@@ -1,8 +1,8 @@
 # MySql
-<<<<<<< Updated upstream
+Updated upstream
 Привет мир
 =======
 # Привет мир
 
->>>>>>> Stashed changes
+Stashed changes
 999999
